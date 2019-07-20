@@ -1,0 +1,18 @@
+.carousel-fcc {
+}
+
+.carousel-fcc > .item {
+  width: 400px;
+}
+
+.carousel > .item.-active {
+  width: 800px;
+}
+
+.carousel-fcc .image {
+  width: 100%;
+}
+
+/* .item:nth-child(2) .image {
+  width: 800px;
+} */
