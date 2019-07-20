@@ -1,0 +1,19 @@
+{
+  "name": "carousel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoBrunoBR/carousel-freecodecamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoBrunoBR/carousel-freecodecamp/issues"
+  },
+  "homepage": "https://github.com/MarcoBrunoBR/carousel-freecodecamp#readme"
+}
